@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5e0677528f1b3523e0652384"},"date":"1577482066157","user":{"$oid":"5dc6df4fc9c66d0b60dd4177"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e1796296d7b0d30547a91e8"},"date":"1578604073793","user":{"$oid":"5e1796266d7b0d30547a91e7"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e1a20a38937752850dc27f7"},"date":"2020-01-11","user":{"$oid":"5e1794d492d6f62920ba0156"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e25d70e804c2624f401ec3e"},"date":"2020-01-20","user":{"$oid":"5e25d5a1804c2624f401ec36"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260a03f812e125e83643b8"},"date":"2020-01-20","user":{"$oid":"5e260a00f812e125e83643b7"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260b874bf5a90f08b24929"},"date":"2020-01-20","user":{"$oid":"5dc9a7a157737d226cca95f0"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260bd14bf5a90f08b2492b"},"date":"2020-01-20","user":{"$oid":"5e260bcd4bf5a90f08b2492a"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260c804bf5a90f08b2492f"},"date":"2020-01-20","user":{"$oid":"5e260c7f4bf5a90f08b2492e"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260d714bf5a90f08b24932"},"date":"2020-01-20","user":{"$oid":"5e260d6c4bf5a90f08b24931"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260ebe4bf5a90f08b24935"},"date":"2020-01-20","user":{"$oid":"5e260ebc4bf5a90f08b24934"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260efd4bf5a90f08b24938"},"date":"2020-01-20","user":{"$oid":"5e260efc4bf5a90f08b24937"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260f324bf5a90f08b2493b"},"date":"2020-01-20","user":{"$oid":"5e260f314bf5a90f08b2493a"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e260f634bf5a90f08b2493e"},"date":"2020-01-20","user":{"$oid":"5e260f614bf5a90f08b2493d"},"__v":{"$numberInt":"0"}}

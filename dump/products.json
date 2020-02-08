@@ -1,0 +1,16 @@
+{"_id":{"$oid":"5dc6e438d08b722a50e94ad0"},"name":"milk","price":{"$numberDouble":"9.9"},"image":"/images/milk.jpg","category":{"$oid":"5dc6e2b0dfce2a2cbc0825c6"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc6e450ccb5e81d8895adfa"},"name":"beef","price":{"$numberInt":"120"},"image":"/images/beef.jpg","category":{"$oid":"5dc6e2fb1107aa14e8b9614a"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc6e752219e8531f4ea2914"},"name":"potatos","price":{"$numberInt":"38"},"image":"/images/potato.jpg","category":{"$oid":"5dc6e2dbea7530040c0fb6d2"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc86e0d625e7536d4e9fdbb"},"name":"cucumbers","price":{"$numberDouble":"5.5"},"image":"/images/cucumber.jpg","category":{"$oid":"5dc6e2dbea7530040c0fb6d2"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5de3f7428254331bc46fd371"},"name":"cotage","price":{"$numberInt":"7"},"image":"/images/cotage.jpg","category":{"$oid":"5dc6e2b0dfce2a2cbc0825c6"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dfd2ae499fb2e1b0cb4b272"},"name":"humus","price":{"$numberInt":"12"},"image":"/images/humus.jpg","category":{"$oid":"5dc6e2b0dfce2a2cbc0825c6"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e10b25f2a4c3a1588a942fa"},"name":"vodka","price":{"$numberInt":"100"},"image":"/images/vodka.jpg","category":{"$oid":"5dc9b0b1738e932d14af031f"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e12f939a686851f6042480b"},"name":"wiskey","price":{"$numberInt":"1000"},"image":"/images/whiskey.jpg","category":{"$oid":"5dc9b0b1738e932d14af031f"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e12f9e932ab8a33402e276e"},"name":"beer","price":{"$numberInt":"100"},"image":"/images/beer.jpg","category":{"$oid":"5dc9b0b1738e932d14af031f"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e130c44d7cb40107c9c4f7d"},"name":"coca cola","price":{"$numberDouble":"7.5"},"image":"/images/cola.jpg","category":{"$oid":"5dc9b0b1738e932d14af031f"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e130c9c8c671235cc6e1f8a"},"name":"wine","price":{"$numberInt":"29"},"image":"/images/wine_2.jpg","category":{"$oid":"5dc9b0b1738e932d14af031f"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e138262742e252d8c902121"},"name":"tomato","price":{"$numberInt":"12"},"image":"/images/tomato.jpg","category":{"$oid":"5dc6e2dbea7530040c0fb6d2"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e138356742e252d8c902122"},"name":"fish","price":{"$numberInt":"50"},"image":"/images/fish.jpg","category":{"$oid":"5dc6e2fb1107aa14e8b9614a"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e138468742e252d8c902123"},"name":"eggs","price":{"$numberInt":"12"},"image":"/images/eggs.jpg","category":{"$oid":"5dc6e2b0dfce2a2cbc0825c6"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e1389c5742e252d8c902124"},"name":"shrimps","price":{"$numberInt":"99"},"image":"/images/shrimps.jpg","category":{"$oid":"5dc6e2fb1107aa14e8b9614a"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e139a93742e252d8c902125"},"name":"oranges","price":{"$numberInt":"23"},"image":"/images/oranges.jpg","category":{"$oid":"5dc6e2dbea7530040c0fb6d2"},"__v":{"$numberInt":"0"}}

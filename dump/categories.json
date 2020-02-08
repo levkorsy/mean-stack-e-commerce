@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5dc6e2b0dfce2a2cbc0825c6"},"name":"milk & eggs","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc6e2dbea7530040c0fb6d2"},"name":"vegtables & fruits","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc6e2fb1107aa14e8b9614a"},"name":"Meat & fish","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc9b0b1738e932d14af031f"},"name":"Wine & drinks","__v":{"$numberInt":"0"}}
